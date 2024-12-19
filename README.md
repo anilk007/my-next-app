@@ -1,3 +1,22 @@
+To do
+
+(1) in vscode we get error 
+
+C:\anil\training\react\dec_2024\next_js_comp\my-next-app> npm run dev
+npm : File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system. For more 
+information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:1
++ npm run dev
++ ~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+(2) write test cases
+(3) submit form is not working - http://localhost:3000/account
+(4) apply style is not working     
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
